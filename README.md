@@ -156,7 +156,9 @@ class MainActivity : ComponentActivity() {
 
 2. create a badge link as described here: https://developer.huawei.com/consumer/en/doc/AppGallery-connect-Guides/agdlink-getlink-agc-0000001164321881
 3. in `Manage links` page, copy the deep link which can be found under column `Tracking link` (hidden after `QR code`)
-   <img src='images/deep_link.png' width="600"  >
+
+<img src='images/deep_link.png' width="600"  >
+
 4. publish to your deep link
 
 ### Testing
